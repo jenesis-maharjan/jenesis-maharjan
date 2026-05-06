@@ -8,7 +8,7 @@
 **Languages:** Java, Python, C, JavaScript, PHP, C# (.NET)  
 **Web:** HTML, CSS, PHP  
 **Mobile:** Android (Java)  
-**Databases:** MySQL, SQL  
+**Databases:** MySQL, SQL, FirebaseDB  
 **Tools:** Git, XAMPP, VS Code, Linux, Android Studio
 
 ---
