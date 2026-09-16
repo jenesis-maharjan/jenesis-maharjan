@@ -9,7 +9,7 @@
 **Web:** HTML, CSS, PHP  
 **Mobile:** Android (Java)  
 **Databases:** MySQL, SQL, FirebaseDB  
-**Tools:** Git, XAMPP, VS Code, Linux, Android Studio
+**Tools:** Git, XAMPP, VS Code, Linux, Android Studio, AWS
 
 ---
 
