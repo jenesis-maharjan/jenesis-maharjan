@@ -46,6 +46,13 @@
   </a>
 </p>
 
+
+<p align="left">
+  <a href="mailto:jenesismaharjan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 > “Like music, good software is about structure, rhythm, and balance — everything should work together naturally.”
