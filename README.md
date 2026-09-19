@@ -14,9 +14,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🩸 **BDMS** - Blood Donation Management System
-  ## 🌐 Live Demo
-  [Visit Live Website](https://blood-donation-management-system-bay.vercel.app/) 
+- 🩸 **BDMS** - Blood Donation Management System 🌐 Live Demo [Visit Live Website](https://blood-donation-management-system-bay.vercel.app/) 
 - 🤖 **TTS System** - Text-to-Speech in Python  
 - 📷 **Attendance System** - Face recognition with OpenCV  
 - 🧠 **DSA Library** - Core implementations in Java
